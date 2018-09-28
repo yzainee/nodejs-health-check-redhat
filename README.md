@@ -2,4 +2,3 @@
 
 Example Health Check Application
 
-
