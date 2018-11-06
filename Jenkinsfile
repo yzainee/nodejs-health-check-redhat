@@ -1,5 +1,5 @@
 #!/usr/bin/groovy
-@Library('github.com/yzainee/osio-pipeline@trial')_
+@Library('github.com/yzainee/osio-pipeline@analytics-plugin')_
 
 osio {
 
